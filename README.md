@@ -24,3 +24,5 @@ The goal of this project is to investigate if images collected from a system of 
 DATASET : https://drive.google.com/file/d/10H3ohDJTGproNjZPn0SBZhzTwMjuUd6w/view?usp=sharing
 
 NOTE : First we have done the classification problem because the shape of firebrand is needed in order to approach the regression problem. So we have used the original dataset to classify shape of firebrand and then exported 3 CSV files which we will use for the regression problem later on.
+
+NOTE : Plesae download the whole repository as .zip and then see the python notebooks. Will fix that compatibility soon as well.
