@@ -22,3 +22,5 @@ c) What is the general shape of the firebrand? Is the firebrand a cylinder or a 
 The goal of this project is to investigate if images collected from a system of four video cameras accurately characterize the firebrands? For each task a) through c), report the accuracy of prediction, assumptions and limitations in performing and completing the task [3-6].
 
 DATASET : https://drive.google.com/file/d/10H3ohDJTGproNjZPn0SBZhzTwMjuUd6w/view?usp=sharing
+
+NOTE : First we have done the classification problem because the shape of firebrand is needed in order to approach the regression problem. So we have used the original dataset to classify shape of firebrand and then exported 3 CSV files which we will use for the regression problem later on.
