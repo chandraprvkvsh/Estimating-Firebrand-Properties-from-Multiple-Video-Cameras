@@ -3,7 +3,7 @@
 Welcome to the Estimating-Firebrand-Properties-from-Multiple-Video-Cameras project! In this project, we utilize image data collected from a system of 4 video cameras to characterize firebrands, pieces of burning material generated during wildland fires.
 
 ## Background
-Wildland fires have caused significant destruction to communities worldwide. Understanding the characteristics of firebrands is crucial for protecting communities from firebrand ignition. Firebrands, when carried by the wind, can ignite vegetation and structures, spreading fires rapidly. This project aims to investigate firebrand characteristics using image data from multiple video cameras.
+Wildland fires have caused significant destruction to communities worldwide. Understanding the characteristics of firebrands is crucial for protecting communities from firebrand ignition. Firebrands, when carried by the wind, can ignite vegetation and structures, spreading fires rapidly. This project aims to investigate firebrand characteristics using image data from multiple video cameras. 
 
 ## Project Statement
 The goal of this project is to characterize firebrands using image data. The researcher aims to understand various properties of firebrands, including energy content, propensity for ignition, size, shape, and orientation. We address the following questions:
